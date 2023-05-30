@@ -1,4 +1,5 @@
 package exercise1;
+//this is our exercise 1
 
 /**
  * A class that models playing card Objects. Cards have 
